@@ -16,7 +16,7 @@
       <p><b>数字通信实验台</b></p>
       <p>让一段文字穿过噪声，观察星座图、接收错误与误码率。</p>
       <p><sub>BPSK / QPSK · AWGN · BER</sub></p>
-      <p><a href="https://mecony.github.io/commscope-lab/">在线体验 Demo</a> · <a href="https://github.com/Mecony/commscope-lab">源码 Code</a></p>
+      <p><a href="https://github.com/Mecony/commscope-lab#运行">运行说明</a> · <a href="https://github.com/Mecony/commscope-lab">源码 Code</a></p>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/Mecony/resonance-studio"><img src="https://raw.githubusercontent.com/Mecony/Mecony/main/assets/resonance-studio.webp" width="100%" alt="Resonance Studio 共振视觉工作台：森林小屋里的耳机与音乐光带插画封面，点击查看源码。"></a>
